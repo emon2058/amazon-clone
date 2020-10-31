@@ -1,0 +1,14 @@
+.order{
+  background: white;
+  margin: 3%;
+  padding-bottom: 9px;
+}
+
+.left{
+  float: right;
+  font-weight: bold;
+}
+
+.order button{
+  display: none;
+}

@@ -1,0 +1,21 @@
+.payment{
+  background-color: white;
+}
+
+.payment_container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.payment_section{
+  text-align: center;
+  padding-top: 15px;
+  width: 380px; /*This width is only for card number and date*/
+}
+.payment_address{
+  padding: 4px;
+}
+.payment_details{
+  margin-bottom: 15px;
+}
